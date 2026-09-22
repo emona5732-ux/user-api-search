@@ -1,0 +1,20 @@
+#userList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.user-card {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+.user-card button {
+    display: block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
