@@ -38,6 +38,10 @@ Through this project, I practiced:
 - Event listeners
 - Dynamic HTML rendering
 
+## Live Demo
+
+[View Live Project](https://emona5732-ux.github.io/user-api-search/)
+
 ## Author
 
 Sabbir Ahmed Emon
